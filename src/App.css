@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  border: 1px solid black;
+  height: 550px;
+  width: 400px;
+margin: auto;
+background-color: rgba(157, 157, 238, 0.375);
+border-radius: 20px;
+  
+}
+.form{
+  margin-top: 15px;
+}
+input,.btn{
+  padding:8px 15px;
+  border-radius: 15px;
+  border: 2px solid rgb(17, 16, 16);
+  color: black;
+  font-size: larger;
+  margin-top: 3px;
+}
+label{
+  font-size: 15px;
+  font-style: italic;
+  font-weight:bolder;
+  color: rgb(5, 5, 103);
+}
